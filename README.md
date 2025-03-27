@@ -56,4 +56,28 @@ submitted as a part of first monitoring and verification.
 Since the project activity generates electricity through wind energy, a clean renewable energy source it
 will not cause any negative impact on the environment and thereby contributes to climate change
 mitigation efforts
+____________
+ISSUANCE DATE: 27/03/2025
 
+QTY: 10518
+
+PERIOD: 01/07/2021-31/12/2023
+___________
+Serial Number: 0001-000001-001879-UCR-CoU-IN-445-01072021-31122021
+
+Vintage Year: 2021
+
+Quantity: 1879
+____________
+Serial Number: 0001-001880-006238-UCR-CoU-IN-445-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 4359
+___________
+Serial Number: 0001-006239-010518-UCR-CoU-IN-445-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 4280
+________________
