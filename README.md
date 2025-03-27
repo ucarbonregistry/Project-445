@@ -9,6 +9,10 @@ Project participants M/s Simpolo Vitrified Private Limited (Project Proponent)
 
 Host Party India
 
+Village: Sukhsan, Dist.: Kutch, Gujarat, India.
+
+Coordinates: 23°17'04.5"N 69°18'17.8"E
+
 Applied methodologies and
 standardized baselines
 
